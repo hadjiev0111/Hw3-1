@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hw3-1</string>
+    <string name="txt_view">Добро пожаловать в</string>
+    <string name="geecktech">Гиктек</string>
+    <string name="login"> Введите Логин</string>
+    <string name="password"> Пароль</string>
+</resources>
